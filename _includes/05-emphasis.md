@@ -1,1 +1,1 @@
-**_Front-end Developer, Responsive Deginer, SEO, Accessibility, Good practices_**
+**_Front-end Developer, Responsive Design, SEO, Accessibility, Good practices_**
