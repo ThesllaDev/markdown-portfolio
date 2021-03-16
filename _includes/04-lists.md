@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- Bootstrap
+- CSS3
+- Figma
+- Git
+- HTML5
+- JavaScript
+- jQuery
+- Node
+- VSCode
